@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/diane/Documents/AtelierAIProject/AtelierAIProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/diane/Documents/AtelierAIProject/AtelierAIProject/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/KH/7UZTS1KQ9C3D8VCY0LU7D4.uasset",
+				"C:/Users/diane/Documents/AtelierAIProject/AtelierAIProject/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/Q4/V758X99SGCELUD0EM4HK4G.uasset",
+				"C:/Users/diane/Documents/AtelierAIProject/AtelierAIProject/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/30/EXEN8BYTWNFPJJRLE00CJ2.uasset",
+				"C:/Users/diane/Documents/AtelierAIProject/AtelierAIProject/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/I5/39QMOMX0SBF5P8WX11O0V6.uasset",
+				"C:/Users/diane/Documents/AtelierAIProject/AtelierAIProject/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/5Q/R91HTPJGCTT11W21J2XSVY.uasset",
+				"C:/Users/diane/Documents/AtelierAIProject/AtelierAIProject/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/7Y/WQ1G94TAXTE1YVN2INDKQ5.uasset"
+			]
+		}
+	]
+}
